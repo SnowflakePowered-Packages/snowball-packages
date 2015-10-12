@@ -1,0 +1,12 @@
+{
+  "name": "StandardAjax",
+  "description": "Snowflake's standard AJAX library for use with snowflake.js",
+  "authors": [
+    "Snowflake"
+  ],
+  "dependencies": [],
+  "packagetype": "Plugin",
+  "versions": [
+    "0.1.3"
+  ]
+}
