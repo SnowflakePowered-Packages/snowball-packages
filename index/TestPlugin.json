@@ -7,7 +7,7 @@
   "packagetype": "Plugin",
   "versions": {
     "0.0.1": [
-      "StandardAjax"
+      "StandardAjax@0.1.6"
     ]
   }
 }
