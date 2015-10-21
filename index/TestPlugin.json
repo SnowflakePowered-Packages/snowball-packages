@@ -1,0 +1,13 @@
+{
+  "name": "TestPlugin",
+  "description": "TestPlugin with a Dependency",
+  "authors": [
+    "Snowflake"
+  ],
+  "packagetype": "Plugin",
+  "versions": {
+    "0.0.1": [
+      "StandardAjax"
+    ]
+  }
+}
