@@ -6,6 +6,9 @@
   ],
   "packagetype": "Plugin",
   "versions": {
-    "0.1.5": []
+    "0.1.5": [],
+    "0.1.6": [
+      "dummydep@1.0"
+    ]
   }
 }
