@@ -1,0 +1,12 @@
+{
+  "name": "theme-paper-snowflake",
+  "description": "Material Design Theme for Snowflake",
+  "authors": [
+    "Snowflake"
+  ],
+  "tags": null,
+  "packagetype": "Theme",
+  "versions": {
+    "0.1.0": []
+  }
+}
