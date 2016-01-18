@@ -1,0 +1,16 @@
+{
+  "name": "assembly-retroarch64",
+  "description": "RetroArch Emulator for Snowflake",
+  "authors": [
+    "RetroArch Contributors"
+  ],
+  "tags": [
+    "~snowflakeDefault",
+    "Emulator",
+    "RetroArch"
+  ],
+  "packagetype": "EmulatorAssembly",
+  "versions": {
+    "1.2.2": []
+  }
+}
