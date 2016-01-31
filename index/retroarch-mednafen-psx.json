@@ -1,0 +1,23 @@
+{
+  "name": "retroarch-mednafen-psx",
+  "description": "libretro-beetle-psx RetroArch wrapper for Snowflake.",
+  "authors": [
+    "Snowflake",
+    "Mednafen Team",
+    "RetroArch Contributors"
+  ],
+  "tags": [
+    "~snowflakeDefault",
+    "Emulator",
+    "Mednafen",
+    "Mednafen PSX",
+    "#platform-SONY_PSX"
+  ],
+  "packagetype": "Plugin",
+  "versions": {
+    "1.0.0": [
+      "assembly-retroarch64@1.2.2",
+      "retroarch-common@1.0.0"
+    ]
+  }
+}
