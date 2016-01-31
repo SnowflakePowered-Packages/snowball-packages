@@ -1,0 +1,22 @@
+{
+  "name": "retroarch-bnes",
+  "description": "libretro-bNES RetroArch wrapper for Snowflake.",
+  "authors": [
+    "Snowflake",
+    "byuu",
+    "RetroArch Contributors"
+  ],
+  "tags": [
+    "~snowflakeDefault",
+    "Emulator",
+    "bNES",
+    "#platform-NINTENDO_NES"
+  ],
+  "packagetype": "Plugin",
+  "versions": {
+    "1.0.0": [
+      "assembly-retroarch64@1.2.2",
+      "retroarch-common@1.0.0"
+    ]
+  }
+}
