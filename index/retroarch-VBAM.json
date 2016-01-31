@@ -1,0 +1,22 @@
+{
+  "name": "retroarch-VBAM",
+  "description": "libretro-vbam RetroArch wrapper for Snowflake.",
+  "authors": [
+    "Snowflake",
+    "VBA-M Team",
+    "RetroArch Contributors"
+  ],
+  "tags": [
+    "~snowflakeDefault",
+    "Emulator",
+    "Nestopia",
+    "#platform-NINTENDO_GBA"
+  ],
+  "packagetype": "Plugin",
+  "versions": {
+    "1.0.0": [
+      "assembly-retroarch64@1.2.2",
+      "retroarch-common@1.0.0"
+    ]
+  }
+}
