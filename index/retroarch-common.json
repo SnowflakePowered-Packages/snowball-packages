@@ -1,0 +1,17 @@
+{
+  "name": "retroarch-common",
+  "description": "libretro wrapper common logic",
+  "authors": [
+    "Snowflake"
+  ],
+  "tags": [
+    "~snowflakeDefault",
+    "Emulator"
+  ],
+  "packagetype": "Plugin",
+  "versions": {
+    "1.0.0": [
+      "assembly-retroarch64@1.2.2"
+    ]
+  }
+}
