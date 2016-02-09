@@ -7,7 +7,8 @@
   "tags": [],
   "packagetype": "Plugin",
   "versions": {
+    "1.1.1": [],
     "1.1.0": []
   },
-  "pub": "<RSAKeyValue><Modulus>yqmsVRnEFuoTE+UAWDkX46GmIP0PIQftIoJ+XXIDgF3xLWk5jj+FtVxwMIyLiwqsQSSLXU5J9f55uxYWlbomoFc91slRdeU6fqR2WXH9WbCFYCrCIasx6wPOpJcDdROcLsUkT9UOZvUfa0xuZoyzOovIxOA8g2spsmNhlfKLfd8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>"
+  "pub": "<RSAKeyValue><Modulus>qJDJhQ5gG4BfX5L3hlw7VqDRkmrfwjaQmqatrWJ1VhG3lfUE0sg4Y2cYdm2XqX0t5XP4e55VwaWBo9JqMvK7+WQ+3QSpOxytTRegLKv7ZUQ3uroCLGRE/6LRMrnev8exJJXukCPmr2pUz09fqNtdaUPZwV58sV7j0l4oRlC1oGs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>"
 }
