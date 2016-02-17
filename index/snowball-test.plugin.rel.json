@@ -7,7 +7,7 @@
   "tags": [],
   "packagetype": "Plugin",
   "versions": {
-    "1.1.0": []
+    "1.1.1": []
   },
   "pub": "<RSAKeyValue><Modulus>yqmsVRnEFuoTE+UAWDkX46GmIP0PIQftIoJ+XXIDgF3xLWk5jj+FtVxwMIyLiwqsQSSLXU5J9f55uxYWlbomoFc91slRdeU6fqR2WXH9WbCFYCrCIasx6wPOpJcDdROcLsUkT9UOZvUfa0xuZoyzOovIxOA8g2spsmNhlfKLfd8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>"
 }
